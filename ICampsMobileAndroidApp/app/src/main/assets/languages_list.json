@@ -1,0 +1,36 @@
+{
+  "languages": [
+    {
+      "lang_title": "English",
+      "lang_id": "1"
+    },
+    {
+      "lang_title": "हिंदी",
+      "lang_id": "2"
+    },
+    {
+      "lang_title": "मराठी",
+      "lang_id": "3"
+    },
+    {
+      "lang_title": "ગુજરાતી",
+      "lang_id": "4"
+    },
+    {
+      "lang_title": "বাংলা",
+      "lang_id": "5"
+    },
+    {
+      "lang_title": "ಕನ್ನಡ",
+      "lang_id": "6"
+    },
+    {
+      "lang_title": "മലയാളം",
+      "lang_id": "7"
+    },
+    {
+      "lang_title": "ਪੰਜਾਬੀ",
+      "lang_id": "8"
+    }
+  ]
+}

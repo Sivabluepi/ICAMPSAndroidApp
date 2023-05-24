@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ICampsAndroid</string>
+    <string name="continue_title">Continue</string>
+    <string name="security_private_issues"><![CDATA[Security &\nPrivate issues]]></string>
+    <string name="scan_the_phone_for_security_privacy_issues_and_based_on_the_issues_found_in_the_handset_provide_customised_alerts_actions_to_the_user"><![CDATA[Scan the phone for Security & Privacy Issues and based on the Issues found in the handset, provide customised Alerts & Actions to the user.]]></string>
+</resources>

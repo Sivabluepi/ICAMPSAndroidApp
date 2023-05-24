@@ -1,0 +1,28 @@
+{
+  "tutorial_pages_list_data": [
+    {
+      "page_title": "Security &\nPrivate issues",
+      "page_description": "Scan the phone for Security & Privacy Issues and based on the Issues found in the handset, provide customised Alerts & Actions to the user.",
+      "page_btn_title": "Next",
+      "page_icon":"ic_sp_issues"
+    },
+    {
+      "page_title": "Vulnerabilities",
+      "page_description": "Vulnerabilities related information will appear here.",
+      "page_btn_title": "Next",
+      "page_icon":"ic_vulnerabilities"
+    },
+    {
+      "page_title": "Alerts",
+      "page_description": "Provide customised alerts & actions to the user.",
+      "page_btn_title": "Next",
+      "page_icon":"ic_alerts"
+    },
+    {
+      "page_title": "News &\nBest Practices",
+      "page_description": "Based on your device analysis, related news & best practices will be appear.",
+      "page_btn_title": "Get Started",
+      "page_icon":"ic_news_bp"
+    }
+  ]
+}
