@@ -2,8 +2,6 @@ package com.bluepi.icampsandroid.ui.home
 
 import android.os.Bundle
 import android.view.Menu
-import android.view.View
-import android.widget.ImageButton
 import androidx.appcompat.app.ActionBar
 import androidx.appcompat.app.AppCompatActivity
 import androidx.appcompat.widget.AppCompatImageView
@@ -16,7 +14,6 @@ import androidx.navigation.ui.setupWithNavController
 import com.bluepi.icampsandroid.R
 import com.bluepi.icampsandroid.databinding.ActivityHomeBinding
 import com.google.android.material.navigation.NavigationView
-
 
 class HomePageActivity : AppCompatActivity(){
     private lateinit var binding: ActivityHomeBinding
