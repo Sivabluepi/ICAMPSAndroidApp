@@ -43,11 +43,16 @@ class TutorialPagesAdapter(
     override fun onBindViewHolder(holder: ViewHolder, position: Int) {
         val item = mList[position]
         val resDrawable: Int =
-            context.resources.getIdentifier(item.page_icon, "drawable", context.getPackageName())
+            context.resources.getIdentifier(item.page_icon, "drawable", context.packageName)
         holder.headerTitle.text = item.page_title
         holder.descriptionMessage.text = item.page_description
         holder.imageCentrePage.setImageResource(resDrawable)
         holder.btnNext.text = item.page_btn_title
+        if(holder.btnNext.text == "Next"){
+            holder.btnNext.setOnClickListener{
+                //
+            }
+        }
     }
 
     // return the number of the items in the list

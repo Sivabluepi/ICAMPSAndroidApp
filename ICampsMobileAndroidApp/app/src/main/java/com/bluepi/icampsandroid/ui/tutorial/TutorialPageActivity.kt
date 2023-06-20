@@ -46,12 +46,16 @@ class TutorialPageActivity : AppCompatActivity() {
                 ViewPager2.OnPageChangeCallback() {
                 override fun onPageSelected(position: Int) {
                     super.onPageSelected(position)
-
+                    val positionPage = position + 1
                     /*Snackbar.make(
                         binding.root,
                         "Position::>> " + (position + 1),
                         Snackbar.LENGTH_SHORT
                     ).show()*/
+
+                    if(positionPage == 4){
+
+                    }
                 }
             })
         }
